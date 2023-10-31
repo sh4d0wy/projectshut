@@ -86,7 +86,7 @@ pnpm dev
 
 > Add new features or fix bugs according to your issue number
 
-8.  After done you can now push this changes, for doing that follow the following command chain
+8.  After done you can now push these changes, for doing that follow the following command chain
 
 - `git status -s` (Shows the changed files)
 - `git add --all` (Will add all the files to staging area)
